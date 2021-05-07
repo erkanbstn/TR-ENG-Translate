@@ -1,0 +1,11 @@
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\bin\Debug\Kelime Öğren Uygulaması.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\bin\Debug\Kelime Öğren Uygulaması.exe
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\bin\Debug\Kelime Öğren Uygulaması.pdb
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\obj\Debug\Kelime Öğren Uygulaması.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\obj\Debug\Kelime_Öğren_Uygulaması.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\obj\Debug\Kelime_Öğren_Uygulaması.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\obj\Debug\Kelime Öğren Uygulaması.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\obj\Debug\Kelime Öğren Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\obj\Debug\Kelime Öğren Uygulaması.exe
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\obj\Debug\Kelime Öğren Uygulaması.pdb
+C:\Users\profe\Desktop\Visual Projeler\Kelime Öğren Uygulaması\Kelime Öğren Uygulaması\obj\Debug\Kelime_Öğren_Uygulaması.FrmPanel.resources
